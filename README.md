@@ -14,4 +14,41 @@ A collection of machine learning algorithms implemented from scratch and using p
 - **Jupyter Notebooks** with detailed explanations
 - **Benchmark Comparisons** (scratch vs. library)
 - **Production-ready** code samples
+- **Comprehensive coverage of Supervised & Unsupervised Learning algorithms**  
 
+---
+
+## 🧠 Algorithms Included
+
+### 🔹 Supervised Learning
+
+**Classification:**
+- K-Nearest Neighbors (KNN)  
+- Logistic Regression (Binary & Multi-class)  
+- Naive Bayes (Gaussian, Multinomial)  
+- Perceptron Algorithm  
+- Support Vector Machines (SVM)  
+- Decision Trees  
+- Random Forests  
+- Neural Networks (Feedforward Basics)  
+
+**Regression:**
+- Linear Regression (Simple & Multiple)  
+- Polynomial Regression  
+- Logistic Regression (for classification tasks)
+
+### 🔹 Unsupervised Learning
+
+- K-Means Clustering  
+- Hierarchical Clustering  
+- DBSCAN  
+- Principal Component Analysis (PCA)  
+
+---
+
+## ✅ Ideal For
+
+- Students and beginners learning ML fundamentals  
+- Comparing custom implementations vs. popular libraries  
+- Building intuition behind each algorithm  
+- Educational projects, assignments, and practical understanding  
